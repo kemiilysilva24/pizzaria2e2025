@@ -51,6 +51,7 @@ function App(){
       <Formulario nome="Tomas" sombra="Digite seu time..." />
       <Formulario nome="Antonieta" sombra="valor de pi" />
       
+      
     </div>
   )
 }
